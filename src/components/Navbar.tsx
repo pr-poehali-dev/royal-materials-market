@@ -35,13 +35,13 @@ export default function Navbar() {
                 className="font-cormorant font-bold text-xl leading-tight"
                 style={{ color: "var(--gold-light)" }}
               >
-                Царскій Матеріалъ
+                ООО «ЦАР»
               </div>
               <div
                 className="text-xs tracking-widest uppercase"
                 style={{ color: "rgba(201,168,76,0.7)", fontFamily: "Philosopher, serif" }}
               >
-                строительные и реставрационные материалы
+                Центр Архитектурных Решений
               </div>
             </div>
           </NavLink>

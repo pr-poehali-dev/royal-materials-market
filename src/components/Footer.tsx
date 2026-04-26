@@ -13,10 +13,10 @@ export default function Footer() {
             <div className="mb-4">
               <span className="ornament text-3xl">❦</span>
               <h3 className="font-cormorant text-xl font-bold mt-2" style={{ color: "var(--gold-light)" }}>
-                Царскій Матеріалъ
+                ООО «Центр Архитектурных Решений»
               </h3>
               <p className="text-xs mt-1 tracking-wider uppercase" style={{ color: "rgba(201,168,76,0.6)" }}>
-                Съ 1887 года
+                Строительство и реставрация
               </p>
             </div>
             <p className="text-sm leading-relaxed" style={{ color: "rgba(245,240,232,0.7)" }}>
@@ -109,9 +109,9 @@ export default function Footer() {
 
         {/* Bottom row */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs" style={{ color: "rgba(245,240,232,0.4)" }}>
-          <p>© 2024 Царскій Матеріалъ. Все права защищены.</p>
+          <p>© 2024 ООО «Центр Архитектурных Решений». Все права защищены.</p>
           <p className="text-center" style={{ fontFamily: "Philosopher, serif", letterSpacing: "0.1em" }}>
-            ✦ Традиции качества с 1887 года ✦
+            ✦ Строительство и реставрация высшего класса ✦
           </p>
         </div>
       </div>
